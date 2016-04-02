@@ -1,0 +1,19 @@
+$HEADER$
+BOARD_TYPE PCB_DESIGN
+UNITS TH
+$END HEADER$
+
+$PART_SECTION_BEGIN$
+S3                               0839252                          270.00     4645.67    531.50     TOP        NO
+S1                               PPCOM-10982                      90.00      6062.99    531.50     TOP        NO
+S2                               PPCOM-10982                      270.00     1744.09    531.50     TOP        NO
+H1                               ******* RADIODAN_PROTO10x8       0.00       85.00      85.00      TOP        NO
+H2                               ******* RADIODAN_PROTO10x8       0.00       6495.00    85.00      TOP        NO
+R4                               0637046                          180.00     5562.99    334.65     BOTTOM     YES
+R5                               0637062                          180.00     5562.99    452.76     BOTTOM     YES
+R6                               0637062                          180.00     5562.99    610.24     BOTTOM     YES
+R3                               0637062                          0.00       2255.91    452.76     BOTTOM     YES
+R2                               0637062                          0.00       2255.91    570.87     BOTTOM     YES
+R1                               0637046                          0.00       2255.91    688.98     BOTTOM     YES
+PL1                              0810483                          270.00     3503.94    488.19     BOTTOM     YES
+$PART_SECTION_END$

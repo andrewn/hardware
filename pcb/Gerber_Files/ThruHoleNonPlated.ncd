@@ -1,0 +1,20 @@
+; Version : LOCAL
+; Job     : C:\Mentor_BBCRD\jobs\p869_1\pcb\p869_1.pcb
+; User    : RD000357:malcolmr
+; Date    : Mon Jun 30 09:08:41 2014
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Non-Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T06C0.0710
+%
+M72
+G90
+G93X0Y0
+T06
+X044687Y005315
+X048227
+T00
+M30

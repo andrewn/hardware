@@ -1,0 +1,56 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Mon Jun 30 09:35:58 2014}
+}
+{Environment
+	{ViewMetric	No}
+}
+{Layers
+	{Layer  1
+		{File		WiringSilkscreen.gdo}
+		{LyrName	WiringSilkscreen}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		WiringSide.gdo}
+		{LyrName	WiringSide}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		DrillPattern.gdo}
+		{LyrName	DrillPattern}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		ComponentSide.gdo}
+		{LyrName	ComponentSide}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		CompSoldermask.gdo}
+		{LyrName	CompSoldermask}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}
