@@ -1,0 +1,23 @@
+,,,,
+Radiodan Bill of Materials,,,,
+2016-10-07,,,,
+Description,RS code,Number,Part number,Link
+"26 PIN BOXED HEADER, VERTICAL, LOW PROFILE",461-786,1,THOMAS&BETTS 609-2627,
+"RESISTOR,1%,120 ohm, MRS25,",683-2979,2,VISHAY BC COMPONENTS MRS25000C1200FCT00,
+"RESISTOR,1%,68 ohm,MRS25,",683-3950,4,VISHAY BC COMPONENTS MRS25000C6809FCT00,
+"SWITCH, MECHANICAL KEY",686-6768,1,OMRON B3F-4050,
+"SWITCH CAP,ROUND,BLACK",682-1115,1,OMRON B32-1610,
+Raspberry PI 3,896-8660 ,1,,
+8GB SD card,917-6317,1,,
+Power supply (2.5A),103-4302,1,,
+ROTARY ENCODER - ILLUMINATED ,,2,PPCOM-10982,
+Rotary encoder cap,,2,PPCOM-10597,
+GPIO downgrade ribbon cable,,1,,https://www.coolcomponents.co.uk/downgrade-gpio-ribbon-cable-for-raspberry-pi-model-b-40p-to-26p.html
+DAC,,1,,https://shop.pimoroni.com/products/phat-dac
+Speaker,,1,,https://www.amazon.co.uk/Veho-VSS-001-360-Portable-Rechargeable-Smartphones-Black/dp/B002CS2T4I
+Extra tall stackable headers,,1,,https://www.coolcomponents.co.uk/stackable-header-20-pin.html
+"4cm length (minimum) bolts, 4mm diameter",,4,,
+Wingnuts,,4,,
+Sticky velcro,,a little,,http://www.ebay.co.uk/bhp/self-adhesive-velcro
+Laser cut case,,1,,https://github.com/radiodan/hardware/tree/master/case
+PCB,,1,,https://github.com/radiodan/hardware/tree/master/pcb
