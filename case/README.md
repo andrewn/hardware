@@ -7,7 +7,7 @@ A case suitable for laser cutter for making your own [radiodan](http://radiodan.
 
 The case is designed to be laser cut out of 3mm thickness material.
 
-There are 2 PDFs provided. The only difference is the width of the lines: 0.0001mm or 0.25pt. Which one you need to use depends on your laser cutter. The 0.25pt lines are easier to see in a graphics application if you need to edit the design.
+Our current recommendation is to use the wide case format, with [this BOM](https://github.com/radiodan/hardware/tree/master/bom).
 
 We've used the following colours:
 

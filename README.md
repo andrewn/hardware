@@ -6,5 +6,5 @@ directory are oshpark-radiodan and dirty-pcb-radiodan which we've
 successfully had made by OshPar and DirtyPCB respspectively.
 
 Under the BOM directory are pdf and csv version of the Radiodan Bill of 
-Materials as of october 2016.
+Materials as of October 2016.
 
